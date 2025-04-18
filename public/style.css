@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+input {
+    padding: 10px;
+    margin-left: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#search {
+    width: 300px;
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+}
+
+.result-item {
+    padding: 5px;
+    border:#333 1px solid;
+    border-radius: 4px;
+    margin: 10px 0;
+
+}
